@@ -1,6 +1,12 @@
-## 💫 About Me:
-Hello, Ryzen here 👋🏻<br>I am a data analyst at the Salim Group`2K17 and active in several AI and DePIN projects on several blockchains
-
+<h1 align="center">Hi, I'm Ryzen </h1>
+<h3 align="center">Data Analyst at Salim Group | Crypto Enthusiast | AI Engg 🐧</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://img.shields.io/badge/EndeavourOS-7C4DFF?style=for-the-badge&logo=arch-linux&logoColor=white" alt="EndeavourOS" />
+<img src="https://img.shields.io/badge/Config_Master-FFD700?style=for-the-badge&logo=neovim&logoColor=black" alt="Config Master" />
+  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/266387886377664512) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kbayu788) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NxtRyzen) 
 
@@ -18,6 +24,6 @@ Hello, Ryzen here 👋🏻<br>I am a data analyst at the Salim Group`2K17 and ac
 [![](https://visitcount.itsvg.in/api?id=RyzenXT-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/ryzenxt) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/ryzenxt) 
 
 
