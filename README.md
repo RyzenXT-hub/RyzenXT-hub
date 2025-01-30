@@ -1,6 +1,5 @@
-# 💫 About Me:
+## 💫 About Me:
 Hello, Ryzen here 👋🏻<br>I am a data analyst at the Salim Group`2K17 and active in several AI and DePIN projects on several blockchains
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/266387886377664512) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kbayu788) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NxtRyzen) 
@@ -15,17 +14,10 @@ Hello, Ryzen here 👋🏻<br>I am a data analyst at the Salim Group`2K17 and ac
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RyzenXT-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RyzenXT-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=RyzenXT-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/ryzenxt) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
