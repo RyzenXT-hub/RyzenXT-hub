@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Ryzen </h1>
-<h3 align="center">Data Analyst  | Crypto Enthusiast | AI Eng🐧</h3>
+<h1 align="center">Hi, It's Ryzen </h1>
+<h3 align="center">Data Analyst | Crypto Enthusiast | AI Eng🐧</h3>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
