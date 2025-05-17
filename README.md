@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, It's Ryzen 👋🏻 </h1>
+<h1 align="center">Hello world👋🏻 </h1>
 <h3 align="center">Data Analyst | WEB3 Enthusiast | AI Eng🐧</h3>
 
 <div align="center">
